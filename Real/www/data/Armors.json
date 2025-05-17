@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"atypeId":3,"description":"I feel like a normal cloth.","etypeId":2,"traits":[],"iconIndex":135,"name":"Anormaly uniform","note":"","params":[0,0,0,10,0,0,0,0],"price":300},
+{"id":2,"atypeId":3,"description":"I don't know why I feel similar with this....","etypeId":3,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.3},{"code":43,"dataId":15,"value":1}],"iconIndex":331,"name":"Pistol","note":"","params":[0,0,15,0,0,0,-5,5],"price":0},
+{"id":3,"atypeId":3,"description":"A shot-gun.","etypeId":4,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.5},{"code":43,"dataId":13,"value":1}],"iconIndex":332,"name":"Shot-gun","note":"","params":[0,0,20,0,0,0,-20,10],"price":0},
+{"id":4,"atypeId":3,"description":"It look suspicious.","etypeId":4,"traits":[{"code":31,"dataId":1,"value":1},{"code":43,"dataId":14,"value":1}],"iconIndex":346,"name":"ID-754","note":"","params":[0,0,15,0,0,0,-10,0],"price":0},
+{"id":5,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":6,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":7,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":8,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":9,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":10,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
+]
